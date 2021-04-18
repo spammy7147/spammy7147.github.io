@@ -1,10 +1,9 @@
 ---
 title: "Post: Spring Web Start"
-date: 2021-04-18T09:00:00-18:00
 categories:
-- blog 
-  tags:
-- Spring
+  - blog
+tags:
+  - spring
 ---
 
 <h4>스프링 부트 - 웹페이지 만들기</h4>
