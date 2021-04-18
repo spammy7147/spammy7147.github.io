@@ -1,5 +1,5 @@
 ---
-title: "Spring Web Start"
+title: "Post: Spring Web Start"
 date: 2021-04-18T09:00:00-18:00
 categories:
 - blog 
