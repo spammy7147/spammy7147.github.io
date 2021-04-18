@@ -1,6 +1,6 @@
 ---
 title: "오늘의 첫날"
-date: 2021-04-18T09:00-18:00
+date: 2021-04-18T09:00:00-18:00
 categories:
 - blog 
   tags:
