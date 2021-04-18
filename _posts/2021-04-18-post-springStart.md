@@ -1,5 +1,5 @@
 ---
-title: "오늘의 첫날"
+title: "Spring Web Start"
 date: 2021-04-18T09:00:00-18:00
 categories:
 - blog 
@@ -17,7 +17,7 @@ JDK 11 <br>
 
 
 4월 14일 monfamily Project Start<br>
-<a src="https://github.com/spammy7147/monfamily.git">github</a>
+<a href="https://github.com/spammy7147/monfamily.git">github</a>
 
 시작은 mybatis 로 시작 <br>
 JPA의 존재 인식 및 JPA 사용 <br>
