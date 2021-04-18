@@ -17,7 +17,7 @@ JDK 11 <br>
 
 
 4월 14일 monfamily Project Start<br>
-<a href="https://github.com/spammy7147/monfamily.git">github</a>
+<a href="https://github.com/spammy7147/monfamily.git" target="_blank">github</a>
 
 시작은 mybatis 로 시작 <br>
 JPA의 존재 인식 및 JPA 사용 <br>
