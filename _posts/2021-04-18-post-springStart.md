@@ -1,9 +1,10 @@
 ---
-title: "Post: Spring Web Start"
+title: "Spring Web Start"
 categories:
-  - blog
+    - blog
 tags:
-  - spring
+    - monfamily
+    - front-end
 ---
 
 <h4>스프링 부트 - 웹페이지 만들기</h4>
